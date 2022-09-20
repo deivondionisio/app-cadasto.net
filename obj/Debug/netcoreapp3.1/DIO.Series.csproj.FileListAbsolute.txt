@@ -38,3 +38,17 @@ C:\Users\david_9u86sf9\OneDrive\Documentos\GitHub\app-cadasto.net\obj\Debug\netc
 C:\Users\david_9u86sf9\OneDrive\Documentos\GitHub\app-cadasto.net\obj\Debug\netcoreapp3.1\DIO.Series.dll
 C:\Users\david_9u86sf9\OneDrive\Documentos\GitHub\app-cadasto.net\obj\Debug\netcoreapp3.1\DIO.Series.pdb
 C:\Users\david_9u86sf9\OneDrive\Documentos\GitHub\app-cadasto.net\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
+C:\Users\david\Documents\GitHub\app-cadasto.net\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\Users\david\Documents\GitHub\app-cadasto.net\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\Users\david\Documents\GitHub\app-cadasto.net\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\Users\david\Documents\GitHub\app-cadasto.net\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\Users\david\Documents\GitHub\app-cadasto.net\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\david\Documents\GitHub\app-cadasto.net\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\david\Documents\GitHub\app-cadasto.net\obj\Debug\netcoreapp3.1\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\david\Documents\GitHub\app-cadasto.net\obj\Debug\netcoreapp3.1\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Documents\GitHub\app-cadasto.net\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\david\Documents\GitHub\app-cadasto.net\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\Users\david\Documents\GitHub\app-cadasto.net\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\GitHub\app-cadasto.net\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\david\Documents\GitHub\app-cadasto.net\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\david\Documents\GitHub\app-cadasto.net\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache

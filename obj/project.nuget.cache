@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "NdgI9rHH61rx+B+jbmAUo8oHKZXsKCJ0X7Ev0/laEwPmg1YKoL4Qc5RJtyjEbubHACSiZJ38jRqd3nmqhVMqLg==",
+  "dgSpecHash": "9AcBvkbh9xxWKCRainw5ohqvsFUw4mi1fO0FbEuPK+YDgpNPEVkGisH3KxdJJpIuEFSyJGV+QGJwRla5cJh+4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\david_9u86sf9\\OneDrive\\Documentos\\GitHub\\app-cadasto.net\\DIO.Series.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\david\\Documents\\GitHub\\app-cadasto.net\\DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
   "logs": []
 }
